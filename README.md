@@ -62,3 +62,5 @@ If `United States` is selected as the focus of the dashboard, each state will ha
 ![trajectory](images/trajectory.png)
 
 This chart displays the trajectory of the pandemic within sub-regions. The x-axis displays the cumulative confirmed count by sub-region and the y-axis displays the count of cases which were confirmed in the previous week. With this visualization, once a sub-region has managed to control the pandemic to some extent, the line should suddenly drop down, as China (green) and South Korea (orange) have in the image. Although `date` is not on either of the axes, the data is still plotted by date; hovering over any line will display the date on which that data point was recorded. Additionally, the date slider on the bottom also controls this chart; so along with the map, the progress throughout time of the trajectories can be inspected.
+
+P.S. : This is just for learning purpose. It is not recommanded to use this dashboard data for publish analyses. This is purely developed for my own learning purposes. You can refer original dashboard(https://covid-19-raffg.herokuapp.com) for more details. All credit goes to Greg Rafferty(https://github.com/raffg)
